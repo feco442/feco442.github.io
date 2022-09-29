@@ -1,0 +1,43 @@
+/*body*/
+      body{
+          background-color: hsl(220, 15%, 55%);
+          margin:60px;
+      }
+      
+/*The first div*/
+      .design {
+          background-color: lightblue;
+          width: 200px;
+          height: 370px;
+          margin:auto;
+          border:10px hidden lightblue;
+          border-radius: 6px;
+      }    
+/*the image*/
+      img{
+          padding:13px;
+      }    
+/*the first paragraph*/
+    .attri{
+          font-size:15px;
+          text-align: center;
+          margin:4px;
+          font-weight:bold;
+     }     
+/*the second paragraph*/
+   .attri2{
+          font-size:15px;
+          text-align:justify;
+          margin:10px;
+          font-family:cursive;  
+          font-weight:20px
+      }    
+/*footer*/
+   .attribution{
+          font-size: 11px; 
+          text-align: center; 
+      } 
+      a{
+          text-decoration:none;
+      }
+
